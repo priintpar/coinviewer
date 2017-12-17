@@ -1,4 +1,4 @@
-Name:       Coinviewer (Euro Version)<br />
+Name:       Coinviewer<br />
 Author:     alex@life-sucks.info<br />
 Date:       11/2017<br />
 Version:    2.0<br />
