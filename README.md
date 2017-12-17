@@ -1,4 +1,3 @@
-"""
 Name:       Coinviewer (Euro Version)
 Author:     alex@life-sucks.info
 Date:       11/2017
@@ -27,5 +26,3 @@ python coinviewer-v2.py "yourcsvfile.csv"
 
 3rd-party libraries needed to run:
 # sudo pip install tabulate
-
-"""
