@@ -3,6 +3,7 @@
 """
 Name:       Coinviewer (Euro Version Server)
 Author:     alex@life-sucks.info
+Website:    https://life-sucks.info/818/coinviewer-v2-usdeurbtc-versions/
 Date:       12/2017
 Version:    2.0
 
