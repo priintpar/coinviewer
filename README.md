@@ -26,7 +26,8 @@ bitcoin;47.34;2661.862
 posw-coin;72637;0.075843
 waves;30.219;0.2286993449
 xtrabytes;1961.96;0.0000834987
-```<br />
+```
+
 <br />
 ### How to run
 python coinviewer-v2.py coins-yourname.csv currency savehistory<br />
