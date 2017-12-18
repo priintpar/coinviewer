@@ -17,6 +17,15 @@ of your coins for every data retrieval.<br />
 ### Sources used are
 https://pypi.python.org/pypi/tabulate<br />
 <br />
+### How to run
+python coinviewer-v2.py coins-yourname.csv currency savehistory<br />
+currency is the symbol of the currency you want to calculate in<br />
+(choose usd, eur or btc, otherwise eur is used)<br />
+savehistory lets you save the current calculations in a csv<br />
+(savehistory is optional)<br />
+<br />
+### 3rd-party libraries needed to run
+sudo pip install tabulate<br />
 ### Configuration
 Create a csv file with the following format:<br />
 ```
@@ -27,14 +36,3 @@ posw-coin;72637;0.075843
 waves;30.219;0.2286993449
 xtrabytes;1961.96;0.0000834987
 ```
-
-<br />
-### How to run
-python coinviewer-v2.py coins-yourname.csv currency savehistory<br />
-currency is the symbol of the currency you want to calculate in<br />
-(choose usd, eur or btc, otherwise eur is used)<br />
-savehistory lets you save the current calculations in a csv<br />
-(savehistory is optional)<br />
-<br />
-### 3rd-party libraries needed to run
-sudo pip install tabulate
