@@ -17,15 +17,14 @@ at coinmarketcap.com
 <br />
 ### Sources used are
 https://pypi.python.org/pypi/tabulate<br />
-<br />
 ### Configuration
 Create a csv file named coins.csv<br />
 with the following content format:<br />
-'''
+```
 "Coin Name";"Coin Amount";"Total Investment Price in €"
 digibyte;5922.7;0.05
 bitcoin;47.34;2661.86
-'''
+```
 ### How to run
 python coinviewer.py coins.csv<br />
 ### 3rd-party libraries needed to run
