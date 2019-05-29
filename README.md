@@ -2,7 +2,7 @@
 ### Info
 Name:       Coinviewer<br />
 Author:     alex@life-sucks.info<br />
-Website:    https://life-sucks.info/818/coinviewer-v2-usdeurbtc-versions/<br />
+Website:    https://life-sucks.info/coinviewer-4-2019/<br />
 Date:       05/2019<br />
 Version:    4 (190528)<br />
 <br />
