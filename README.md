@@ -1,8 +1,8 @@
 # README
 ### Info
 Name:       Coinviewer<br />
-Author:     alex@life-sucks.info<br />
-Website:    https://life-sucks.info/1022/coinviewer-4-2019/<br />
+Author:     priintpar<br />
+Website:    [https://life-sucks.info/1022/coinviewer-4-2019/](https://github.com/priintpar/coinviewer/)<br />
 Date:       05/2019<br />
 Version:    4 (190528)<br />
 <br />
