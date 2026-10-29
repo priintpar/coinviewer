@@ -1,0 +1,5 @@
+Coin;Amount;Net investment EUR;Exchange;Notes
+id:1;0.250000;7500.00;Example Exchange;Bitcoin example
+id:1027;1.500001;-250.00;Example Exchange;Negative investment after realized sales
+id:35697;1500.000000;125.50;Example Wallet;Pi Network example
+id:52;25.350000;0;Example Wallet;Zero net investment example
